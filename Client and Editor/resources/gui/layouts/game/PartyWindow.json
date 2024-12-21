@@ -18,6 +18,7 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "ClampMovement": true,
+  "DrawShadow": true,
   "ActiveImage": "party.png",
   "InactiveImage": "",
   "ActiveColor": "255,220,220,220",

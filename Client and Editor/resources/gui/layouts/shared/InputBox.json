@@ -18,6 +18,7 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "ClampMovement": true,
+  "DrawShadow": true,
   "ActiveImage": "error_window.png",
   "InactiveImage": "",
   "ActiveColor": "255,255,255,255",
@@ -51,7 +52,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,96,29",
+    "Bounds": "0,0,114,29",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -242,6 +243,7 @@
             "BackgroundImage": null,
             "SnapToNotches": false,
             "NotchCount": 5,
+            "Notches": null,
             "SliderBar": {
               "Bounds": "22,-2,8,22",
               "Padding": "0,0,0,0",

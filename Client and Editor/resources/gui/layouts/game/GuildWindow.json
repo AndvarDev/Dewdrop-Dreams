@@ -18,6 +18,7 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "ClampMovement": true,
+  "DrawShadow": true,
   "ActiveImage": "guild.png",
   "InactiveImage": "",
   "ActiveColor": "255,220,220,220",
@@ -51,7 +52,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,54,21",
+    "Bounds": "0,0,45,31",
     "Padding": "40,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -492,7 +493,9 @@
         "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
-        "ItemRightClickSound": "octave-beep-tapped.wav"
+        "ItemRightClickSound": "octave-beep-tapped.wav",
+        "TextColor": "255,255,255,255",
+        "TextColorOverride": "0,0,0,0"
       },
       "InviteButton": {
         "Bounds": "194,6,18,18",

@@ -21,7 +21,7 @@
     "MinAttackRate": 500,
     "RegenTime": 3000,
     "EnableCombatChatMessages": false,
-    "MovementCancelsCast": false,
+    "MovementCancelsCast": true,
     "MatchGroupCooldowns": true,
     "MatchGroupCooldownHighest": true,
     "LinkSpellAndItemCooldowns": true,

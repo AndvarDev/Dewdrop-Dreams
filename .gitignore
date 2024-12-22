@@ -1,2 +1,6 @@
 
 *.log
+
+Server/self-signed.crt
+
+Server/self-signed.key

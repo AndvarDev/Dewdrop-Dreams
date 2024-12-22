@@ -25,7 +25,7 @@
     "MatchGroupCooldowns": true,
     "MatchGroupCooldownHighest": true,
     "LinkSpellAndItemCooldowns": true,
-    "EnableGlobalCooldowns": false,
+    "EnableGlobalCooldowns": true,
     "GlobalCooldownDuration": 1500,
     "MaxPlayerAutoTargetRadius": 15,
     "RegenVitalsInCombat": false,
